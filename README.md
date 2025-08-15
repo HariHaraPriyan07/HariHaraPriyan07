@@ -50,7 +50,7 @@
 
 ### 📚 [BiblioSphere](https://github.com/HariHaraPriyan07/BiblioSphere)
 A **Netflix-style platform for books** designed to help book enthusiasts discover their next favorite read.  
-**Tech Used:** HTML, CSS, JavaScript, React, Node.js, MongoDB.  
+**Tech Used:** HTML, CSS, JavaScript, React, TypeScript, Node.js, MongoDB.  
 ![Repo Stars](https://img.shields.io/github/stars/HariHaraPriyan07/BiblioSphere?style=social)
 
 ---
@@ -68,7 +68,6 @@ A **Netflix-style platform for books** designed to help book enthusiasts discove
 
 ## 🏅 Achievements
 - **ULOG3 - CubeSat (PRP-Sat):** Developed GroundStation dashboard for real-time satellite monitoring.  
-- **Created India’s first neuromorphic processor** (student project).  
 - **On-site Internship** at Al-Mulla Exchange, Kuwait — gained hands-on industry experience.
 
 ---
