@@ -1,7 +1,7 @@
 <!-- Profile README for HariHaraPriyan07 -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Hari+Hara+Priyan+KS;Full+Stack+Developer+%7C+AI%2FAIML+Learner;Blockchain+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Hari+Hara+Priyan+KS;Full+Stack+Developer+%7C+AI%2FAIML+Learner;Blockchain+Enthusiast+%7C+Problem+Solver" alt="Typing SVG" />
 </h1>
 
 ---
