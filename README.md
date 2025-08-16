@@ -9,8 +9,8 @@
 ## 🚀 About Me
 🎓 **Student | Full Stack Developer | AI & Blockchain Enthusiast**  
 💡 Passionate about building impactful solutions for communities, from AI models to full-fledged websites.  
-📚 Currently working on **[BiblioSphere](https://github.com/HariHaraPriyan07/BiblioSphere)** — a Netflix-like platform for book lovers.  
-🌍 Aim: To merge AI, Web, and Blockchain to create innovative tools for the future.
+📚 Currently working on **[BiblioSphere](https://github.com/HariHaraPriyan07/BiblioSphere)** and **[TrinetraAI](https://github.com/HariHaraPriyan07/TrinetraAI)**  
+🌍 My Aim: To merge AI, Web, and Blockchain to create innovative tools for the future.
 
 ---
 
