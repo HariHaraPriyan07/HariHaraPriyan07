@@ -50,6 +50,7 @@
 ### 🤖 [TrinetraAI](https://github.com/HariHaraPriyan07/TrinetraAI)
 An **AI-Powered Tool for Combating Misinformation** designed to help people find misinformation thru images, text or links.
 Also a part of Google's GenAI Exchange Hackathon. 
+
 **Tech Used:** HTML, CSS, JavaScript, React, TypeScript, Node.js for now.  
 ![Repo Stars](https://img.shields.io/github/stars/HariHaraPriyan07/BiblioSphere?style=social)
 
